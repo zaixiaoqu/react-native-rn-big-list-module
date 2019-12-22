@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "lottie-react-native": "latest"
+    "lottie-react-native": "latest",
+    "prop-types": "latest"
   },
   "repository": {
     "type": "git",
