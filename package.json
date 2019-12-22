@@ -1,0 +1,32 @@
+{
+  "name": "react-native-rn-big-list-module",
+  "title": "React Native 大列表组件",
+  "version": "1.0.0",
+  "description": "React Native 大列表组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "lottie-react-native": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaixiaoqu/react-native-rn-big-list-module.git",
+    "baseUrl": "https://github.com/zaixiaoqu/react-native-rn-big-list-module"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-rn-big-list-module",
+    "React Native 大列表组件"
+  ],
+  "author": {
+    "name": "yusheng",
+    "email": "don@zaixiaoqu.cn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaixiaoqu/react-native-rn-big-list-module/issues"
+  },
+  "homepage": "https://github.com/zaixiaoqu/react-native-rn-big-list-module.git#readme"
+}
