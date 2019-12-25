@@ -1,7 +1,7 @@
 {
   "name": "react-native-rn-big-list-module",
   "title": "React Native 大列表组件",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React Native 大列表组件",
   "main": "index.js",
   "scripts": {
